@@ -1,0 +1,1 @@
+{"alert":{},"enrich":{"CR_HANDPHONE__creditcardcustomer_gfyh":"13576928253"},"message":{"eventId":"Gelivable001","OrigMerName":"测试","TxnTme":"142633","CarNbr":"222222222222","TxnAmt":100,"AcctNmbr":"2012022920120229","TxnDte":"20170101","TxnCcy":"840"},"effectiveFeedBack":[{"feedbackCode":"sqkfx","marketingClassify":0,"feedbackValue":0.01,"CreditCurrCde":"840"}]}
